@@ -41,3 +41,5 @@ The script prints four plots directly to the console.
 ## Author
 
 Aniruddhan Ganesaraman — Department of Statistics and Operations Research, UNC Chapel Hill.
+Email ID: anigr@unc.edu
+
