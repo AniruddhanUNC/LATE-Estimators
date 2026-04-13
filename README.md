@@ -33,7 +33,7 @@ install.packages(c("AER", "hdm", "glmnet", "ranger",
 
 ## Running the simulation
 
-Open `late_simulation.R` in R or RStudio and run the entire script. The runtime can be over 2 hours. The script uses `parLapply` for parallelism; if you are on macOS and see `MallocStackLogging` messages in the console, these are harmless macOS system warnings unrelated to the results.
+Open `late_simulation.R` in R or RStudio and run the entire script. The runtime is about 15 minutes. The script uses `parLapply` for parallelism; if you are on macOS and see `MallocStackLogging` messages in the console, these are harmless macOS system warnings unrelated to the results.
 
 The script prints four plots and a summary table directly to the console. 
 
