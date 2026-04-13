@@ -18,6 +18,7 @@ All five methods target the LATE under the standard IV assumptions of Imbens and
 .
 ├── late_simulation.R              # Simulation code (all five estimators)
 ├── late_comparison_capstone.pdf   # Full written report
+├── late_slides.pdf                # Slides used for presentation
 ├── sim_results.csv                # simulated values of estimators, bias, MSE, CI lengths, coverage, etc. 
 └── README.md
 ```
